@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding:0;
+}
+
+header {
+	background-color: #000000
+}
+
+footer {
+	color: #FFFFFF;
+	background-color: #000000;
+	padding:25px;
+}
+
+body {
+	text-align: center;
+}
+
